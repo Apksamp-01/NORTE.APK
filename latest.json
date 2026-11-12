@@ -1,0 +1,8 @@
+{
+  "version_code": 2,
+  "version_name": "0.0.2",
+  "apk_url": "https://github.com/Apksamp-01/NORTE.APK/releases/download/v0.0.2/Norte-Roleplay-v0.0.2.apk",
+  "sha256": "b3d2b2ca9b19905f5cbef75f543019b8fb59bbbd091758c863be246d9d8dea67",
+  "changelog": "Adiciona o atualizador no app: consulta de versões, aviso, download e validação do APK.",
+  "mandatory": false
+}

@@ -1,8 +1,8 @@
 {
-  "version_code": 2,
-  "version_name": "0.0.2",
-  "apk_url": "https://github.com/Apksamp-01/NORTE.APK/releases/download/v0.0.2/Norte-Roleplay-v0.0.2.apk",
-  "sha256": "b3d2b2ca9b19905f5cbef75f543019b8fb59bbbd091758c863be246d9d8dea67",
-  "changelog": "Adiciona o atualizador no app: consulta de versões, aviso, download e validação do APK.",
+  "version_code": 3,
+  "version_name": "0.0.3",
+  "apk_url": "https://github.com/Apksamp-01/NORTE.APK/releases/download/v0.0.3/Norte-Roleplay-v0.0.3.apk",
+  "sha256": "d626ae72451cec4ee23aec851cd37c3cd4b32ca1d6c52117316601b67c7233e9",
+  "changelog": "Nova interface inicial integrada; status, jogadores e ping consultados no servidor SA-MP; botao Entrar ligado ao cliente do jogo; tema e estilos locais sem CDN.",
   "mandatory": false
 }

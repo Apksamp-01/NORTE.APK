@@ -1,8 +1,8 @@
 {
-  "version_code": 3,
-  "version_name": "0.0.3",
-  "apk_url": "https://github.com/Apksamp-01/NORTE.APK/releases/download/v0.0.3/Norte-Roleplay-v0.0.3.apk",
-  "sha256": "d626ae72451cec4ee23aec851cd37c3cd4b32ca1d6c52117316601b67c7233e9",
-  "changelog": "Nova interface inicial integrada; status, jogadores e ping consultados no servidor SA-MP; botao Entrar ligado ao cliente do jogo; tema e estilos locais sem CDN.",
+  "version_code": 4,
+  "version_name": "0.0.4",
+  "apk_url": "https://github.com/Apksamp-01/NORTE.APK/releases/download/v0.0.4/Norte-Roleplay-v0.0.4.apk",
+  "sha256": "d47119e2ecaf9a52c4df18d16713f15aa98f57d6f6c2249ff2055360baceca92",
+  "changelog": "Interface do celular renovada com moldura, papel de parede, fontes e icones do recurso enviado; Nubank mostra o apelido real e abre /atm sem saldo ficticio; ZAPzap fica em modo local ate integrar a GM.",
   "mandatory": false
 }

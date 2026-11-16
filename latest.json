@@ -1,9 +1,9 @@
 {
-  "version_code": 6,
-  "version_name": "0.0.6",
-  "apk_url": "https://github.com/Apksamp-01/NORTE.APK/releases/download/v0.0.6/Norte-Roleplay-v0.0.6.apk",
-  "sha256": "cd386069cfd155cb0f64bdc2ddc97647871f5dbf5e5f179d1486743cd00f0e11",
-  "apk_size_bytes": 91737326,
-  "changelog": "Tela HTML de carregamento corrigida: agora aparece ao abrir o cliente e sai quando o jogo mostra o diálogo de conexão/login ou HUD. Atualizador sem intervalo local: consulta ao abrir o launcher. Progresso mostra MB baixados/total e porcentagem. O Android ainda baixa o APK completo (87,5 MiB), não apenas a página HTML.",
+  "version_code": 7,
+  "version_name": "0.0.7",
+  "apk_url": "https://github.com/Apksamp-01/NORTE.APK/releases/download/v0.0.7/Norte-Roleplay-v0.0.7.apk",
+  "sha256": "e051831730c81820bc139e74ed42d024604dbe4eb4c633ee76f573c0fb450c20",
+  "apk_size_bytes": 92769183,
+  "changelog": "Atualizador diferencial BSDIFF40 preparado para futuras versões; o app valida o patch e o APK reconstruído e usa o APK completo como alternativa. Progresso em MB decimais. Para atualizar da 0.0.6 para a 0.0.7, esta primeira instalação ainda baixa o APK completo (92,8 MB), pois o cliente antigo não aplica patches.",
   "mandatory": true
 }

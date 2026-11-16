@@ -1,9 +1,12 @@
 {
-  "version_code": 7,
-  "version_name": "0.0.7",
-  "apk_url": "https://github.com/Apksamp-01/NORTE.APK/releases/download/v0.0.7/Norte-Roleplay-v0.0.7.apk",
-  "sha256": "e051831730c81820bc139e74ed42d024604dbe4eb4c633ee76f573c0fb450c20",
-  "apk_size_bytes": 92769183,
-  "changelog": "Atualizador diferencial BSDIFF40 preparado para futuras versões; o app valida o patch e o APK reconstruído e usa o APK completo como alternativa. Progresso em MB decimais. Para atualizar da 0.0.6 para a 0.0.7, esta primeira instalação ainda baixa o APK completo (92,8 MB), pois o cliente antigo não aplica patches.",
+  "version_code": 8,
+  "version_name": "0.0.8",
+  "apk_url": "https://github.com/Apksamp-01/NORTE.APK/releases/download/v0.0.8/Norte-Roleplay-v0.0.8.apk",
+  "sha256": "79c573c905f91e810f5fd1654398f114e5e53aac0c5d5e25e597e3172c73f8c5",
+  "apk_size_bytes": 92768627,
+  "patch_base_version_code": 7,
+  "patch_url": "https://github.com/Apksamp-01/NORTE.APK/releases/download/v0.0.8/Norte-Roleplay-v0.0.8-from-v0.0.7.bsdiff",
+  "patch_sha256": "bfec4ac54dc90a4180b0fd84512a978e30abe0c933c2fcc1cf82f4817ecfe86e",
+  "patch_size_bytes": 3588300,
   "mandatory": true
 }

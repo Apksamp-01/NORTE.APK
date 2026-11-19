@@ -1,12 +1,12 @@
 {
-  "version_code": 19,
-  "version_name": "0.0.19",
-  "apk_url": "https://github.com/Apksamp-01/NORTE.APK/releases/download/v0.0.19/Norte-Roleplay-v0.0.19.apk",
-  "sha256": "10db7629cdf95de5392d3065907be8f173828ed8e2de66c5d521c800cb96ce5b",
-  "apk_size_bytes": 92786009,
-  "patch_base_version_code": 18,
-  "patch_url": "https://github.com/Apksamp-01/NORTE.APK/releases/download/v0.0.19/Norte-Roleplay-v0.0.19-from-v0.0.18.bsdiff",
-  "patch_sha256": "b7d0a0dd75308e89689590e53a0ffba52a94702bbda8c28ce304a5c44ce0cb8c",
-  "patch_size_bytes": 4625619,
+  "version_code": 20,
+  "version_name": "0.0.20",
+  "apk_url": "https://github.com/Apksamp-01/NORTE.APK/releases/download/v0.0.20/Norte-Roleplay-v0.0.20.apk",
+  "sha256": "dda4f4f33873d59c8ffb76055b917e59895df7b3f5c12efcfdb074d09c3ca498",
+  "apk_size_bytes": 92785979,
+  "patch_base_version_code": 19,
+  "patch_url": "https://github.com/Apksamp-01/NORTE.APK/releases/download/v0.0.20/Norte-Roleplay-v0.0.20-from-v0.0.19.bsdiff",
+  "patch_sha256": "0a234b847d45ae65be5a4cde39b8831eb057c2e729de93ccada5b85accbfd8d9",
+  "patch_size_bytes": 3607292,
   "mandatory": true
 }
